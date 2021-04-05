@@ -1,0 +1,1 @@
+These are practices in sockets with Node.js
